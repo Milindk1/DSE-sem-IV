@@ -1,0 +1,10 @@
+#Order of creating tables
+ - EMP
+ - SKILL
+ - EMP_SKILL
+ - PRJ_DETAILS
+ - FAMILY_DEPENDANTS
+ - MEDICAL POLICY
+ - PAY_CHECK
+ - CLIENT
+ - WORK_EXP
