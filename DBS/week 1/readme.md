@@ -1,4 +1,4 @@
-#Order of creating tables
+# Order of creating tables
  - EMP
  - SKILL
  - EMP_SKILL
